@@ -1,0 +1,10 @@
+.first-img{
+    width: 50%;
+}
+.second-img{
+    width: 10%;
+}
+#third-img{
+    width: 75%;
+}
+/*id# means one identification = one specific text to that tag. class is the period on css, can be used on multiple tags*/
